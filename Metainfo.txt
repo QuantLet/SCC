@@ -1,4 +1,4 @@
-Name of QuantLet : SCC_wo_salt_factory.sol
+Name of QuantLet : SCC_wo_salt_factory
 
 Published in: 
 
